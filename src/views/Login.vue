@@ -13,13 +13,13 @@
           <h1 class="display-1">Login</h1>
         </v-card-title>
         <v-card-text>
-          <v-form ref="form" v-model="valid">
+          <v-form ref="form">
             <v-text-field label="Username" prepend-icon="mdi-account" required></v-text-field>
             <v-text-field label="Password" prepend-icon="mdi-lock" type="password" required></v-text-field>
           </v-form>
         </v-card-text>
         <v-card-actions>
-          <v-btn color="success">Ingresar</v-btn>
+          <v-btn color="success" @click="login">Ingresar</v-btn>
           <v-spacer></v-spacer>
           <v-btn text @click="registry">Registrarse</v-btn>
         </v-card-actions>
