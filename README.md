@@ -1,24 +1,45 @@
-# covid-front-vue
+# Frontend » Vue
 
-## Project setup
+## TP » Insumos Médicos » UNQ » ArqSoft
+
+### Repo Central » Info y Documentación
+
+* <https://github.com/unq-arqsoft-difi/covid-doc>
+
+## TL;DR
+
+Ir a <https://github.com/unq-arqsoft-difi/covid-front-vue.git> y levantar la API.
+
+```sh
+git clone https://github.com/unq-arqsoft-difi/covid-front-vue.git
+cd covid-front-vue
+npm install
+npm run start
 ```
+
+La APP quedará levantada en `http://localhost:8080`
+
+## Install & Run
+
+### Download
+
+```sh
+git clone https://github.com/unq-arqsoft-difi/covid-front-vue.git
+cd covid-front-vue
+```
+
+### Install
+
+```sh
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+### Run
+
+Ir a <https://github.com/unq-arqsoft-difi/covid-front-vue.git> y levantar la API.
+
+```sh
+npm run start
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+La API quedará levantada en `http://localhost:8080`
