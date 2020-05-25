@@ -14,7 +14,7 @@ Ir a <https://github.com/unq-arqsoft-difi/covid-back-node.git> y levantar la API
 git clone https://github.com/unq-arqsoft-difi/covid-front-vue.git
 cd covid-front-vue
 npm install
-npm run start
+npm run serve
 ```
 
 La APP quedará levantada en `http://localhost:8080`
@@ -39,7 +39,7 @@ npm install
 Ir a <https://github.com/unq-arqsoft-difi/covid-back-node.git> y levantar la API.
 
 ```sh
-npm run start
+npm run serve
 ```
 
 La API quedará levantada en `http://localhost:8080`
