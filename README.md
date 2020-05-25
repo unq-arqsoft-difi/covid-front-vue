@@ -8,7 +8,7 @@
 
 ## TL;DR
 
-Ir a <https://github.com/unq-arqsoft-difi/covid-front-vue.git> y levantar la API.
+Ir a <https://github.com/unq-arqsoft-difi/covid-back-node.git> y levantar la API.
 
 ```sh
 git clone https://github.com/unq-arqsoft-difi/covid-front-vue.git
@@ -36,7 +36,7 @@ npm install
 
 ### Run
 
-Ir a <https://github.com/unq-arqsoft-difi/covid-front-vue.git> y levantar la API.
+Ir a <https://github.com/unq-arqsoft-difi/covid-back-node.git> y levantar la API.
 
 ```sh
 npm run start
