@@ -11,6 +11,10 @@ Vue.use(VueRouter)
     path: '/registrarse',
     name: 'Register',
     component: () => import('../views/Register.vue')
+  }, {
+    path: '/home',
+    name: 'HomePage',
+    component: () => import('../views/HomePage.vue')
   }];
 
 const router = new VueRouter({
